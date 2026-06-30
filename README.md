@@ -19,11 +19,6 @@ The application allows users to select menu items (Veg/Non-Veg), add multiple it
 * Exception Handling
 * Date & Time API (SimpleDateFormat, Date)
 
-## How to Run
-1. Clone the repository
-2. Open the project in any Java IDE (Eclipse / IntelliJ / VS Code)
-3. Compile and run the `Main.java` file
-4. Follow the console instructions
 
 ## Sample Output
 ```
@@ -46,5 +41,3 @@ Thank You! Visit Again
 * GUI version using Java Swing
 * Database integration for order history
 
-## Author
-Neha
